@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![huanyuai's GitHub stats](https://github-readme-stats.vercel.app/api?username=huanyuai)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huanyuai)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=huanyuai)
